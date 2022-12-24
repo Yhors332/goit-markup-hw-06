@@ -1076,14 +1076,6 @@ a {
     justify-content: center;
 }
 
-.checkbox {
-    display: flex;
-    align-items: center;
-    
-
-    text-align: center;
-}
-
 .checkbox-input {
     appearance: none;
     
